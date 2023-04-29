@@ -1,0 +1,11 @@
+D:\C#\NetFramework\NetFramework.S18.D9.ListBoxKullanimi\bin\Debug\NetFramework.S18.D9.ListBoxKullanimi.exe.config
+D:\C#\NetFramework\NetFramework.S18.D9.ListBoxKullanimi\bin\Debug\NetFramework.S18.D9.ListBoxKullanimi.exe
+D:\C#\NetFramework\NetFramework.S18.D9.ListBoxKullanimi\bin\Debug\NetFramework.S18.D9.ListBoxKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S18.D9.ListBoxKullanimi\obj\Debug\NetFramework.S18.D9.ListBoxKullanimi.csproj.AssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S18.D9.ListBoxKullanimi\obj\Debug\NetFramework.S18.D9.ListBoxKullanimi.Form1.resources
+D:\C#\NetFramework\NetFramework.S18.D9.ListBoxKullanimi\obj\Debug\NetFramework.S18.D9.ListBoxKullanimi.Properties.Resources.resources
+D:\C#\NetFramework\NetFramework.S18.D9.ListBoxKullanimi\obj\Debug\NetFramework.S18.D9.ListBoxKullanimi.csproj.GenerateResource.cache
+D:\C#\NetFramework\NetFramework.S18.D9.ListBoxKullanimi\obj\Debug\NetFramework.S18.D9.ListBoxKullanimi.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S18.D9.ListBoxKullanimi\obj\Debug\NetFramework.S18.D9.ListBoxKullanimi.exe
+D:\C#\NetFramework\NetFramework.S18.D9.ListBoxKullanimi\obj\Debug\NetFramework.S18.D9.ListBoxKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S18.D9.ListBoxKullanimi\obj\Debug\NetFramework.S18.D9.ListBoxKullanimi.BirdenFazlaUrunSecim.resources

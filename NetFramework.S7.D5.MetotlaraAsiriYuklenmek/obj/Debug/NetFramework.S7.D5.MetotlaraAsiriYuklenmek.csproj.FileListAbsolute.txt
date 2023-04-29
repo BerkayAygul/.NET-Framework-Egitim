@@ -1,0 +1,12 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S7.D5.MetotlaraAsiriYuklenmek\bin\Debug\NetFramework.S7.D5.MetotlaraAsiriYuklenmek.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S7.D5.MetotlaraAsiriYuklenmek\bin\Debug\NetFramework.S7.D5.MetotlaraAsiriYuklenmek.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S7.D5.MetotlaraAsiriYuklenmek\bin\Debug\NetFramework.S7.D5.MetotlaraAsiriYuklenmek.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S7.D5.MetotlaraAsiriYuklenmek\obj\Debug\NetFramework.S7.D5.MetotlaraAsiriYuklenmek.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S7.D5.MetotlaraAsiriYuklenmek\obj\Debug\NetFramework.S7.D5.MetotlaraAsiriYuklenmek.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S7.D5.MetotlaraAsiriYuklenmek\obj\Debug\NetFramework.S7.D5.MetotlaraAsiriYuklenmek.pdb
+D:\C#\NetFramework\NetFramework.S7.D5.MetotlaraAsiriYuklenmek\bin\Debug\NetFramework.S7.D5.MetotlaraAsiriYuklenmek.exe.config
+D:\C#\NetFramework\NetFramework.S7.D5.MetotlaraAsiriYuklenmek\bin\Debug\NetFramework.S7.D5.MetotlaraAsiriYuklenmek.exe
+D:\C#\NetFramework\NetFramework.S7.D5.MetotlaraAsiriYuklenmek\bin\Debug\NetFramework.S7.D5.MetotlaraAsiriYuklenmek.pdb
+D:\C#\NetFramework\NetFramework.S7.D5.MetotlaraAsiriYuklenmek\obj\Debug\NetFramework.S7.D5.MetotlaraAsiriYuklenmek.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S7.D5.MetotlaraAsiriYuklenmek\obj\Debug\NetFramework.S7.D5.MetotlaraAsiriYuklenmek.exe
+D:\C#\NetFramework\NetFramework.S7.D5.MetotlaraAsiriYuklenmek\obj\Debug\NetFramework.S7.D5.MetotlaraAsiriYuklenmek.pdb

@@ -1,0 +1,12 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi\bin\Debug\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi\bin\Debug\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi\bin\Debug\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi\obj\Debug\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi\obj\Debug\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi\obj\Debug\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi\bin\Debug\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi.exe.config
+D:\C#\NetFramework\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi\bin\Debug\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi.exe
+D:\C#\NetFramework\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi\bin\Debug\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi\obj\Debug\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi\obj\Debug\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi.exe
+D:\C#\NetFramework\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi\obj\Debug\NetFramework.S8.D2.SınıflardaMetotlarınKullanimi.pdb

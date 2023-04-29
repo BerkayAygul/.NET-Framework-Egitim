@@ -1,0 +1,6 @@
+D:\C#\NetFramework\NetFramework.S10.D1.StaticKullanimi\bin\Debug\NetFramework.S10.D1.StaticKullanimi.exe.config
+D:\C#\NetFramework\NetFramework.S10.D1.StaticKullanimi\bin\Debug\NetFramework.S10.D1.StaticKullanimi.exe
+D:\C#\NetFramework\NetFramework.S10.D1.StaticKullanimi\bin\Debug\NetFramework.S10.D1.StaticKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S10.D1.StaticKullanimi\obj\Debug\NetFramework.S10.D1.StaticKullanimi.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S10.D1.StaticKullanimi\obj\Debug\NetFramework.S10.D1.StaticKullanimi.exe
+D:\C#\NetFramework\NetFramework.S10.D1.StaticKullanimi\obj\Debug\NetFramework.S10.D1.StaticKullanimi.pdb

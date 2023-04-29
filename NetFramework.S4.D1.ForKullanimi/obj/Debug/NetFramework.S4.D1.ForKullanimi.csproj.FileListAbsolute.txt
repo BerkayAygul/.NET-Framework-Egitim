@@ -1,0 +1,12 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S4.D1.ForKullanimi\bin\Debug\NetFramework.S4.D1.ForKullanimi.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S4.D1.ForKullanimi\bin\Debug\NetFramework.S4.D1.ForKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S4.D1.ForKullanimi\bin\Debug\NetFramework.S4.D1.ForKullanimi.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S4.D1.ForKullanimi\obj\Debug\NetFramework.S4.D1.ForKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S4.D1.ForKullanimi\obj\Debug\NetFramework.S4.D1.ForKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S4.D1.ForKullanimi\obj\Debug\NetFramework.S4.D1.ForKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S4.D1.ForKullanimi\bin\Debug\NetFramework.S4.D1.ForKullanimi.exe.config
+D:\C#\NetFramework\NetFramework.S4.D1.ForKullanimi\bin\Debug\NetFramework.S4.D1.ForKullanimi.exe
+D:\C#\NetFramework\NetFramework.S4.D1.ForKullanimi\bin\Debug\NetFramework.S4.D1.ForKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S4.D1.ForKullanimi\obj\Debug\NetFramework.S4.D1.ForKullanimi.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S4.D1.ForKullanimi\obj\Debug\NetFramework.S4.D1.ForKullanimi.exe
+D:\C#\NetFramework\NetFramework.S4.D1.ForKullanimi\obj\Debug\NetFramework.S4.D1.ForKullanimi.pdb

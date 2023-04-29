@@ -1,0 +1,13 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S3.D2.IfElseOrnek1\obj\Debug\NetFramework.S3.D2.IfElseOrnek1.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S3.D2.IfElseOrnek1\bin\Debug\NetFramework.S3.D2.IfElseOrnek1.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S3.D2.IfElseOrnek1\bin\Debug\NetFramework.S3.D2.IfElseOrnek1.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S3.D2.IfElseOrnek1\bin\Debug\NetFramework.S3.D2.IfElseOrnek1.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S3.D2.IfElseOrnek1\obj\Debug\NetFramework.S3.D2.IfElseOrnek1.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S3.D2.IfElseOrnek1\obj\Debug\NetFramework.S3.D2.IfElseOrnek1.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S3.D2.IfElseOrnek1\obj\Debug\NetFramework.S3.D2.IfElseOrnek1.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S3.D2.IfElseOrnek1\bin\Debug\NetFramework.S3.D2.IfElseOrnek1.exe.config
+D:\C#\NetFramework\NetFramework.S3.D2.IfElseOrnek1\bin\Debug\NetFramework.S3.D2.IfElseOrnek1.exe
+D:\C#\NetFramework\NetFramework.S3.D2.IfElseOrnek1\bin\Debug\NetFramework.S3.D2.IfElseOrnek1.pdb
+D:\C#\NetFramework\NetFramework.S3.D2.IfElseOrnek1\obj\Debug\NetFramework.S3.D2.IfElseOrnek1.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S3.D2.IfElseOrnek1\obj\Debug\NetFramework.S3.D2.IfElseOrnek1.exe
+D:\C#\NetFramework\NetFramework.S3.D2.IfElseOrnek1\obj\Debug\NetFramework.S3.D2.IfElseOrnek1.pdb

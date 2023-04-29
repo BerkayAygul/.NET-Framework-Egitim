@@ -1,0 +1,13 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S16.D1.EnumKullanimi\bin\Debug\NetFramework.S16.D1.EnumKullanimi.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S16.D1.EnumKullanimi\bin\Debug\NetFramework.S16.D1.EnumKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S16.D1.EnumKullanimi\bin\Debug\NetFramework.S16.D1.EnumKullanimi.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S16.D1.EnumKullanimi\obj\Debug\NetFramework.S16.D1.EnumKullanimi.csprojAssemblyReference.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S16.D1.EnumKullanimi\obj\Debug\NetFramework.S16.D1.EnumKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S16.D1.EnumKullanimi\obj\Debug\NetFramework.S16.D1.EnumKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S16.D1.EnumKullanimi\obj\Debug\NetFramework.S16.D1.EnumKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S16.D1.EnumKullanimi\bin\Debug\NetFramework.S16.D1.EnumKullanimi.exe.config
+D:\C#\NetFramework\NetFramework.S16.D1.EnumKullanimi\bin\Debug\NetFramework.S16.D1.EnumKullanimi.exe
+D:\C#\NetFramework\NetFramework.S16.D1.EnumKullanimi\bin\Debug\NetFramework.S16.D1.EnumKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S16.D1.EnumKullanimi\obj\Debug\NetFramework.S16.D1.EnumKullanimi.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S16.D1.EnumKullanimi\obj\Debug\NetFramework.S16.D1.EnumKullanimi.exe
+D:\C#\NetFramework\NetFramework.S16.D1.EnumKullanimi\obj\Debug\NetFramework.S16.D1.EnumKullanimi.pdb

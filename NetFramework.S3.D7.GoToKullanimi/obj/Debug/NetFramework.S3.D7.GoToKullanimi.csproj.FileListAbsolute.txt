@@ -1,0 +1,13 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S3.D7.GoToKullanimi\bin\Debug\NetFramework.S3.D7.GoToKullanimi.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S3.D7.GoToKullanimi\bin\Debug\NetFramework.S3.D7.GoToKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S3.D7.GoToKullanimi\bin\Debug\NetFramework.S3.D7.GoToKullanimi.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S3.D7.GoToKullanimi\obj\Debug\NetFramework.S3.D7.GoToKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S3.D7.GoToKullanimi\obj\Debug\NetFramework.S3.D7.GoToKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S3.D7.GoToKullanimi\obj\Debug\NetFramework.S3.D7.GoToKullanimi.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S3.D7.GoToKullanimi\obj\Debug\NetFramework.S3.D7.GoToKullanimi.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S3.D7.GoToKullanimi\bin\Debug\NetFramework.S3.D7.GoToKullanimi.exe.config
+D:\C#\NetFramework\NetFramework.S3.D7.GoToKullanimi\bin\Debug\NetFramework.S3.D7.GoToKullanimi.exe
+D:\C#\NetFramework\NetFramework.S3.D7.GoToKullanimi\bin\Debug\NetFramework.S3.D7.GoToKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S3.D7.GoToKullanimi\obj\Debug\NetFramework.S3.D7.GoToKullanimi.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S3.D7.GoToKullanimi\obj\Debug\NetFramework.S3.D7.GoToKullanimi.exe
+D:\C#\NetFramework\NetFramework.S3.D7.GoToKullanimi\obj\Debug\NetFramework.S3.D7.GoToKullanimi.pdb

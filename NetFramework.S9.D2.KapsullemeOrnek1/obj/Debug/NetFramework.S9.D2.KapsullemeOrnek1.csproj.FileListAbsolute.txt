@@ -1,0 +1,13 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S9.D2.KapsullemeOrnek1\bin\Debug\NetFramework.S9.D2.KapsullemeOrnek1.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S9.D2.KapsullemeOrnek1\bin\Debug\NetFramework.S9.D2.KapsullemeOrnek1.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S9.D2.KapsullemeOrnek1\bin\Debug\NetFramework.S9.D2.KapsullemeOrnek1.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S9.D2.KapsullemeOrnek1\obj\Debug\NetFramework.S9.D2.KapsullemeOrnek1.csprojAssemblyReference.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S9.D2.KapsullemeOrnek1\obj\Debug\NetFramework.S9.D2.KapsullemeOrnek1.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S9.D2.KapsullemeOrnek1\obj\Debug\NetFramework.S9.D2.KapsullemeOrnek1.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S9.D2.KapsullemeOrnek1\obj\Debug\NetFramework.S9.D2.KapsullemeOrnek1.pdb
+D:\C#\NetFramework\NetFramework.S9.D2.KapsullemeOrnek1\bin\Debug\NetFramework.S9.D2.KapsullemeOrnek1.exe.config
+D:\C#\NetFramework\NetFramework.S9.D2.KapsullemeOrnek1\bin\Debug\NetFramework.S9.D2.KapsullemeOrnek1.exe
+D:\C#\NetFramework\NetFramework.S9.D2.KapsullemeOrnek1\bin\Debug\NetFramework.S9.D2.KapsullemeOrnek1.pdb
+D:\C#\NetFramework\NetFramework.S9.D2.KapsullemeOrnek1\obj\Debug\NetFramework.S9.D2.KapsullemeOrnek1.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S9.D2.KapsullemeOrnek1\obj\Debug\NetFramework.S9.D2.KapsullemeOrnek1.exe
+D:\C#\NetFramework\NetFramework.S9.D2.KapsullemeOrnek1\obj\Debug\NetFramework.S9.D2.KapsullemeOrnek1.pdb

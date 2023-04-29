@@ -1,0 +1,13 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi\bin\Debug\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi\bin\Debug\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi\bin\Debug\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi\obj\Debug\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi.csprojAssemblyReference.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi\obj\Debug\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi\obj\Debug\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi\obj\Debug\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi\bin\Debug\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi.exe.config
+D:\C#\NetFramework\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi\bin\Debug\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi.exe
+D:\C#\NetFramework\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi\bin\Debug\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi\obj\Debug\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi\obj\Debug\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi.exe
+D:\C#\NetFramework\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi\obj\Debug\NetFramework.S17.D2.GenericCollectionsDictionarySortedListKullanimi.pdb

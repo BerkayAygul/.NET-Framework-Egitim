@@ -1,0 +1,10 @@
+D:\C#\NetFramework\NetFramework.S18.D91.CheckedListBoxKullanimi\bin\Debug\NetFramework.S18.D91.CheckedListBoxKullanimi.exe.config
+D:\C#\NetFramework\NetFramework.S18.D91.CheckedListBoxKullanimi\bin\Debug\NetFramework.S18.D91.CheckedListBoxKullanimi.exe
+D:\C#\NetFramework\NetFramework.S18.D91.CheckedListBoxKullanimi\bin\Debug\NetFramework.S18.D91.CheckedListBoxKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S18.D91.CheckedListBoxKullanimi\obj\Debug\NetFramework.S18.D91.CheckedListBoxKullanimi.csproj.AssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S18.D91.CheckedListBoxKullanimi\obj\Debug\NetFramework.S18.D91.CheckedListBoxKullanimi.Form1.resources
+D:\C#\NetFramework\NetFramework.S18.D91.CheckedListBoxKullanimi\obj\Debug\NetFramework.S18.D91.CheckedListBoxKullanimi.Properties.Resources.resources
+D:\C#\NetFramework\NetFramework.S18.D91.CheckedListBoxKullanimi\obj\Debug\NetFramework.S18.D91.CheckedListBoxKullanimi.csproj.GenerateResource.cache
+D:\C#\NetFramework\NetFramework.S18.D91.CheckedListBoxKullanimi\obj\Debug\NetFramework.S18.D91.CheckedListBoxKullanimi.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S18.D91.CheckedListBoxKullanimi\obj\Debug\NetFramework.S18.D91.CheckedListBoxKullanimi.exe
+D:\C#\NetFramework\NetFramework.S18.D91.CheckedListBoxKullanimi\obj\Debug\NetFramework.S18.D91.CheckedListBoxKullanimi.pdb

@@ -1,0 +1,13 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S17.D3.GenericClassKullanimi\bin\Debug\NetFramework.S17.D3.GenericClassKullanimi.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S17.D3.GenericClassKullanimi\bin\Debug\NetFramework.S17.D3.GenericClassKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S17.D3.GenericClassKullanimi\bin\Debug\NetFramework.S17.D3.GenericClassKullanimi.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S17.D3.GenericClassKullanimi\obj\Debug\NetFramework.S17.D3.GenericClassKullanimi.csprojAssemblyReference.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S17.D3.GenericClassKullanimi\obj\Debug\NetFramework.S17.D3.GenericClassKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S17.D3.GenericClassKullanimi\obj\Debug\NetFramework.S17.D3.GenericClassKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S17.D3.GenericClassKullanimi\obj\Debug\NetFramework.S17.D3.GenericClassKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S17.D3.GenericClassKullanimi\bin\Debug\NetFramework.S17.D3.GenericClassKullanimi.exe.config
+D:\C#\NetFramework\NetFramework.S17.D3.GenericClassKullanimi\bin\Debug\NetFramework.S17.D3.GenericClassKullanimi.exe
+D:\C#\NetFramework\NetFramework.S17.D3.GenericClassKullanimi\bin\Debug\NetFramework.S17.D3.GenericClassKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S17.D3.GenericClassKullanimi\obj\Debug\NetFramework.S17.D3.GenericClassKullanimi.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S17.D3.GenericClassKullanimi\obj\Debug\NetFramework.S17.D3.GenericClassKullanimi.exe
+D:\C#\NetFramework\NetFramework.S17.D3.GenericClassKullanimi\obj\Debug\NetFramework.S17.D3.GenericClassKullanimi.pdb

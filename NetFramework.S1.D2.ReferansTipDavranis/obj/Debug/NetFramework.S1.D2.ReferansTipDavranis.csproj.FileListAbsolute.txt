@@ -1,0 +1,14 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D2.ReferansTipDavranis\bin\Debug\NetFramework.S1.D2.ReferansTipDavranis.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D2.ReferansTipDavranis\bin\Debug\NetFramework.S1.D2.ReferansTipDavranis.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D2.ReferansTipDavranis\bin\Debug\NetFramework.S1.D2.ReferansTipDavranis.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D2.ReferansTipDavranis\obj\Debug\NetFramework.S1.D2.ReferansTipDavranis.csprojAssemblyReference.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D2.ReferansTipDavranis\obj\Debug\NetFramework.S1.D2.ReferansTipDavranis.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D2.ReferansTipDavranis\obj\Debug\NetFramework.S1.D2.ReferansTipDavranis.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D2.ReferansTipDavranis\obj\Debug\NetFramework.S1.D2.ReferansTipDavranis.pdb
+D:\C#\NetFramework\NetFramework.S1.D2.ReferansTipDavranis\bin\Debug\NetFramework.S1.D2.ReferansTipDavranis.exe.config
+D:\C#\NetFramework\NetFramework.S1.D2.ReferansTipDavranis\bin\Debug\NetFramework.S1.D2.ReferansTipDavranis.exe
+D:\C#\NetFramework\NetFramework.S1.D2.ReferansTipDavranis\bin\Debug\NetFramework.S1.D2.ReferansTipDavranis.pdb
+D:\C#\NetFramework\NetFramework.S1.D2.ReferansTipDavranis\obj\Debug\NetFramework.S1.D2.ReferansTipDavranis.csproj.AssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S1.D2.ReferansTipDavranis\obj\Debug\NetFramework.S1.D2.ReferansTipDavranis.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S1.D2.ReferansTipDavranis\obj\Debug\NetFramework.S1.D2.ReferansTipDavranis.exe
+D:\C#\NetFramework\NetFramework.S1.D2.ReferansTipDavranis\obj\Debug\NetFramework.S1.D2.ReferansTipDavranis.pdb

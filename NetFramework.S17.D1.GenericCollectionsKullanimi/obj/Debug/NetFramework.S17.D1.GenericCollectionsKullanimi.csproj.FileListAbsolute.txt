@@ -1,0 +1,13 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S17.D1.GenericCollectionsKullanimi\bin\Debug\NetFramework.S17.D1.GenericCollectionsKullanimi.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S17.D1.GenericCollectionsKullanimi\bin\Debug\NetFramework.S17.D1.GenericCollectionsKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S17.D1.GenericCollectionsKullanimi\bin\Debug\NetFramework.S17.D1.GenericCollectionsKullanimi.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S17.D1.GenericCollectionsKullanimi\obj\Debug\NetFramework.S17.D1.GenericCollectionsKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S17.D1.GenericCollectionsKullanimi\obj\Debug\NetFramework.S17.D1.GenericCollectionsKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S17.D1.GenericCollectionsKullanimi\obj\Debug\NetFramework.S17.D1.GenericCollectionsKullanimi.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S17.D1.GenericCollectionsKullanimi\obj\Debug\NetFramework.S17.D1.GenericCollectionsKullanimi.csprojAssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S17.D1.GenericCollectionsKullanimi\bin\Debug\NetFramework.S17.D1.GenericCollectionsKullanimi.exe.config
+D:\C#\NetFramework\NetFramework.S17.D1.GenericCollectionsKullanimi\bin\Debug\NetFramework.S17.D1.GenericCollectionsKullanimi.exe
+D:\C#\NetFramework\NetFramework.S17.D1.GenericCollectionsKullanimi\bin\Debug\NetFramework.S17.D1.GenericCollectionsKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S17.D1.GenericCollectionsKullanimi\obj\Debug\NetFramework.S17.D1.GenericCollectionsKullanimi.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S17.D1.GenericCollectionsKullanimi\obj\Debug\NetFramework.S17.D1.GenericCollectionsKullanimi.exe
+D:\C#\NetFramework\NetFramework.S17.D1.GenericCollectionsKullanimi\obj\Debug\NetFramework.S17.D1.GenericCollectionsKullanimi.pdb

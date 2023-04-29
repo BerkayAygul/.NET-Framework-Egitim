@@ -1,0 +1,13 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S12.D2.KalitimOrnek1\bin\Debug\NetFramework.S12.D2.KalitimOrnek1.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S12.D2.KalitimOrnek1\bin\Debug\NetFramework.S12.D2.KalitimOrnek1.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S12.D2.KalitimOrnek1\bin\Debug\NetFramework.S12.D2.KalitimOrnek1.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S12.D2.KalitimOrnek1\obj\Debug\NetFramework.S12.D2.KalitimOrnek1.csprojAssemblyReference.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S12.D2.KalitimOrnek1\obj\Debug\NetFramework.S12.D2.KalitimOrnek1.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S12.D2.KalitimOrnek1\obj\Debug\NetFramework.S12.D2.KalitimOrnek1.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S12.D2.KalitimOrnek1\obj\Debug\NetFramework.S12.D2.KalitimOrnek1.pdb
+D:\C#\NetFramework\NetFramework.S12.D2.KalitimOrnek1\bin\Debug\NetFramework.S12.D2.KalitimOrnek1.exe.config
+D:\C#\NetFramework\NetFramework.S12.D2.KalitimOrnek1\bin\Debug\NetFramework.S12.D2.KalitimOrnek1.exe
+D:\C#\NetFramework\NetFramework.S12.D2.KalitimOrnek1\bin\Debug\NetFramework.S12.D2.KalitimOrnek1.pdb
+D:\C#\NetFramework\NetFramework.S12.D2.KalitimOrnek1\obj\Debug\NetFramework.S12.D2.KalitimOrnek1.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S12.D2.KalitimOrnek1\obj\Debug\NetFramework.S12.D2.KalitimOrnek1.exe
+D:\C#\NetFramework\NetFramework.S12.D2.KalitimOrnek1\obj\Debug\NetFramework.S12.D2.KalitimOrnek1.pdb

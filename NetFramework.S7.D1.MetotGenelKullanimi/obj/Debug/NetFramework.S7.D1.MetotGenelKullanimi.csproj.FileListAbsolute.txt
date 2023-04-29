@@ -1,0 +1,12 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S7.D1.MetotGenelKullanimi\bin\Debug\NetFramework.S7.D1.MetotGenelKullanimi.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S7.D1.MetotGenelKullanimi\bin\Debug\NetFramework.S7.D1.MetotGenelKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S7.D1.MetotGenelKullanimi\bin\Debug\NetFramework.S7.D1.MetotGenelKullanimi.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S7.D1.MetotGenelKullanimi\obj\Debug\NetFramework.S7.D1.MetotGenelKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S7.D1.MetotGenelKullanimi\obj\Debug\NetFramework.S7.D1.MetotGenelKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S7.D1.MetotGenelKullanimi\obj\Debug\NetFramework.S7.D1.MetotGenelKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S7.D1.MetotGenelKullanimi\bin\Debug\NetFramework.S7.D1.MetotGenelKullanimi.exe.config
+D:\C#\NetFramework\NetFramework.S7.D1.MetotGenelKullanimi\bin\Debug\NetFramework.S7.D1.MetotGenelKullanimi.exe
+D:\C#\NetFramework\NetFramework.S7.D1.MetotGenelKullanimi\bin\Debug\NetFramework.S7.D1.MetotGenelKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S7.D1.MetotGenelKullanimi\obj\Debug\NetFramework.S7.D1.MetotGenelKullanimi.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S7.D1.MetotGenelKullanimi\obj\Debug\NetFramework.S7.D1.MetotGenelKullanimi.exe
+D:\C#\NetFramework\NetFramework.S7.D1.MetotGenelKullanimi\obj\Debug\NetFramework.S7.D1.MetotGenelKullanimi.pdb

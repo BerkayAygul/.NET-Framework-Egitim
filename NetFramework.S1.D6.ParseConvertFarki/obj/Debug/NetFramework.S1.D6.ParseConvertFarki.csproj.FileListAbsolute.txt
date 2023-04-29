@@ -1,0 +1,14 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D6.ParseConvertFarki\bin\Debug\NetFramework.S1.D6.ParseConvertFarki.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D6.ParseConvertFarki\bin\Debug\NetFramework.S1.D6.ParseConvertFarki.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D6.ParseConvertFarki\bin\Debug\NetFramework.S1.D6.ParseConvertFarki.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D6.ParseConvertFarki\obj\Debug\NetFramework.S1.D6.ParseConvertFarki.csprojAssemblyReference.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D6.ParseConvertFarki\obj\Debug\NetFramework.S1.D6.ParseConvertFarki.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D6.ParseConvertFarki\obj\Debug\NetFramework.S1.D6.ParseConvertFarki.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D6.ParseConvertFarki\obj\Debug\NetFramework.S1.D6.ParseConvertFarki.pdb
+D:\C#\NetFramework\NetFramework.S1.D6.ParseConvertFarki\bin\Debug\NetFramework.S1.D6.ParseConvertFarki.exe.config
+D:\C#\NetFramework\NetFramework.S1.D6.ParseConvertFarki\bin\Debug\NetFramework.S1.D6.ParseConvertFarki.exe
+D:\C#\NetFramework\NetFramework.S1.D6.ParseConvertFarki\bin\Debug\NetFramework.S1.D6.ParseConvertFarki.pdb
+D:\C#\NetFramework\NetFramework.S1.D6.ParseConvertFarki\obj\Debug\NetFramework.S1.D6.ParseConvertFarki.csproj.AssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S1.D6.ParseConvertFarki\obj\Debug\NetFramework.S1.D6.ParseConvertFarki.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S1.D6.ParseConvertFarki\obj\Debug\NetFramework.S1.D6.ParseConvertFarki.exe
+D:\C#\NetFramework\NetFramework.S1.D6.ParseConvertFarki\obj\Debug\NetFramework.S1.D6.ParseConvertFarki.pdb

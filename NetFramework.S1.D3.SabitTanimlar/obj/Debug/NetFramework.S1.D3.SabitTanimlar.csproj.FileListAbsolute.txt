@@ -1,0 +1,14 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D3.SabitTanimlar\obj\Debug\NetFramework.S1.D3.SabitTanimlar.csprojAssemblyReference.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D3.SabitTanimlar\obj\Debug\NetFramework.S1.D3.SabitTanimlar.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D3.SabitTanimlar\bin\Debug\NetFramework.S1.D3.SabitTanimlar.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D3.SabitTanimlar\bin\Debug\NetFramework.S1.D3.SabitTanimlar.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D3.SabitTanimlar\bin\Debug\NetFramework.S1.D3.SabitTanimlar.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D3.SabitTanimlar\obj\Debug\NetFramework.S1.D3.SabitTanimlar.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D3.SabitTanimlar\obj\Debug\NetFramework.S1.D3.SabitTanimlar.pdb
+D:\C#\NetFramework\NetFramework.S1.D3.SabitTanimlar\bin\Debug\NetFramework.S1.D3.SabitTanimlar.exe.config
+D:\C#\NetFramework\NetFramework.S1.D3.SabitTanimlar\bin\Debug\NetFramework.S1.D3.SabitTanimlar.exe
+D:\C#\NetFramework\NetFramework.S1.D3.SabitTanimlar\bin\Debug\NetFramework.S1.D3.SabitTanimlar.pdb
+D:\C#\NetFramework\NetFramework.S1.D3.SabitTanimlar\obj\Debug\NetFramework.S1.D3.SabitTanimlar.csproj.AssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S1.D3.SabitTanimlar\obj\Debug\NetFramework.S1.D3.SabitTanimlar.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S1.D3.SabitTanimlar\obj\Debug\NetFramework.S1.D3.SabitTanimlar.exe
+D:\C#\NetFramework\NetFramework.S1.D3.SabitTanimlar\obj\Debug\NetFramework.S1.D3.SabitTanimlar.pdb

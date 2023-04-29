@@ -1,0 +1,6 @@
+D:\C#\NetFramework\NetFramework.S14.D2.InterfaceKullanimi\bin\Debug\NetFramework.S14.D2.InterfaceKullanimi.exe.config
+D:\C#\NetFramework\NetFramework.S14.D2.InterfaceKullanimi\bin\Debug\NetFramework.S14.D2.InterfaceKullanimi.exe
+D:\C#\NetFramework\NetFramework.S14.D2.InterfaceKullanimi\bin\Debug\NetFramework.S14.D2.InterfaceKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S14.D2.InterfaceKullanimi\obj\Debug\NetFramework.S14.D2.InterfaceKullanimi.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S14.D2.InterfaceKullanimi\obj\Debug\NetFramework.S14.D2.InterfaceKullanimi.exe
+D:\C#\NetFramework\NetFramework.S14.D2.InterfaceKullanimi\obj\Debug\NetFramework.S14.D2.InterfaceKullanimi.pdb

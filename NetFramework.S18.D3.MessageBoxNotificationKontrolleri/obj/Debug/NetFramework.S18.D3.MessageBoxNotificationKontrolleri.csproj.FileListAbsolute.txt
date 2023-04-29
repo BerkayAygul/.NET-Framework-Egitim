@@ -1,0 +1,10 @@
+D:\C#\Kurs\NetFramework\NetFramework.S18.D3.MessageBoxNotificationKontrolleri\bin\Debug\NetFramework.S18.D3.MessageBoxNotificationKontrolleri.exe.config
+D:\C#\Kurs\NetFramework\NetFramework.S18.D3.MessageBoxNotificationKontrolleri\bin\Debug\NetFramework.S18.D3.MessageBoxNotificationKontrolleri.exe
+D:\C#\Kurs\NetFramework\NetFramework.S18.D3.MessageBoxNotificationKontrolleri\bin\Debug\NetFramework.S18.D3.MessageBoxNotificationKontrolleri.pdb
+D:\C#\Kurs\NetFramework\NetFramework.S18.D3.MessageBoxNotificationKontrolleri\obj\Debug\NetFramework.S18.D3.MessageBoxNotificationKontrolleri.csprojAssemblyReference.cache
+D:\C#\Kurs\NetFramework\NetFramework.S18.D3.MessageBoxNotificationKontrolleri\obj\Debug\NetFramework.S18.D3.MessageBoxNotificationKontrolleri.Properties.Resources.resources
+D:\C#\Kurs\NetFramework\NetFramework.S18.D3.MessageBoxNotificationKontrolleri\obj\Debug\NetFramework.S18.D3.MessageBoxNotificationKontrolleri.csproj.GenerateResource.cache
+D:\C#\Kurs\NetFramework\NetFramework.S18.D3.MessageBoxNotificationKontrolleri\obj\Debug\NetFramework.S18.D3.MessageBoxNotificationKontrolleri.csproj.CoreCompileInputs.cache
+D:\C#\Kurs\NetFramework\NetFramework.S18.D3.MessageBoxNotificationKontrolleri\obj\Debug\NetFramework.S18.D3.MessageBoxNotificationKontrolleri.exe
+D:\C#\Kurs\NetFramework\NetFramework.S18.D3.MessageBoxNotificationKontrolleri\obj\Debug\NetFramework.S18.D3.MessageBoxNotificationKontrolleri.pdb
+D:\C#\Kurs\NetFramework\NetFramework.S18.D3.MessageBoxNotificationKontrolleri\obj\Debug\NetFramework.S18.D4.MessageBoxNotificationKontrolleri.Form1.resources

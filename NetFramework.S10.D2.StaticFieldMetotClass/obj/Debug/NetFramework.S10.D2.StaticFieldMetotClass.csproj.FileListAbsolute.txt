@@ -1,0 +1,13 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S10.D2.StaticFieldMetotClass\bin\Debug\NetFramework.S10.D2.StaticFieldMetotClass.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S10.D2.StaticFieldMetotClass\bin\Debug\NetFramework.S10.D2.StaticFieldMetotClass.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S10.D2.StaticFieldMetotClass\bin\Debug\NetFramework.S10.D2.StaticFieldMetotClass.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S10.D2.StaticFieldMetotClass\obj\Debug\NetFramework.S10.D2.StaticFieldMetotClass.csprojAssemblyReference.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S10.D2.StaticFieldMetotClass\obj\Debug\NetFramework.S10.D2.StaticFieldMetotClass.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S10.D2.StaticFieldMetotClass\obj\Debug\NetFramework.S10.D2.StaticFieldMetotClass.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S10.D2.StaticFieldMetotClass\obj\Debug\NetFramework.S10.D2.StaticFieldMetotClass.pdb
+D:\C#\NetFramework\NetFramework.S10.D2.StaticFieldMetotClass\bin\Debug\NetFramework.S10.D2.StaticFieldMetotClass.exe.config
+D:\C#\NetFramework\NetFramework.S10.D2.StaticFieldMetotClass\bin\Debug\NetFramework.S10.D2.StaticFieldMetotClass.exe
+D:\C#\NetFramework\NetFramework.S10.D2.StaticFieldMetotClass\bin\Debug\NetFramework.S10.D2.StaticFieldMetotClass.pdb
+D:\C#\NetFramework\NetFramework.S10.D2.StaticFieldMetotClass\obj\Debug\NetFramework.S10.D2.StaticFieldMetotClass.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S10.D2.StaticFieldMetotClass\obj\Debug\NetFramework.S10.D2.StaticFieldMetotClass.exe
+D:\C#\NetFramework\NetFramework.S10.D2.StaticFieldMetotClass\obj\Debug\NetFramework.S10.D2.StaticFieldMetotClass.pdb

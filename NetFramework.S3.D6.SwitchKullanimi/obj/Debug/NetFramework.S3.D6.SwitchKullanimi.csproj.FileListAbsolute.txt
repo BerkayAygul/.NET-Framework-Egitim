@@ -1,0 +1,12 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S3.D6.SwitchKullanimi\bin\Debug\NetFramework.S3.D6.SwitchKullanimi.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S3.D6.SwitchKullanimi\bin\Debug\NetFramework.S3.D6.SwitchKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S3.D6.SwitchKullanimi\bin\Debug\NetFramework.S3.D6.SwitchKullanimi.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S3.D6.SwitchKullanimi\obj\Debug\NetFramework.S3.D6.SwitchKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S3.D6.SwitchKullanimi\obj\Debug\NetFramework.S3.D6.SwitchKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S3.D6.SwitchKullanimi\obj\Debug\NetFramework.S3.D6.SwitchKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S3.D6.SwitchKullanimi\bin\Debug\NetFramework.S3.D6.SwitchKullanimi.exe.config
+D:\C#\NetFramework\NetFramework.S3.D6.SwitchKullanimi\bin\Debug\NetFramework.S3.D6.SwitchKullanimi.exe
+D:\C#\NetFramework\NetFramework.S3.D6.SwitchKullanimi\bin\Debug\NetFramework.S3.D6.SwitchKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S3.D6.SwitchKullanimi\obj\Debug\NetFramework.S3.D6.SwitchKullanimi.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S3.D6.SwitchKullanimi\obj\Debug\NetFramework.S3.D6.SwitchKullanimi.exe
+D:\C#\NetFramework\NetFramework.S3.D6.SwitchKullanimi\obj\Debug\NetFramework.S3.D6.SwitchKullanimi.pdb

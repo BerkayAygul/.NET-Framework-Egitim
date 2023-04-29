@@ -1,0 +1,13 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S13.D2.SanalMetotOrnek1\bin\Debug\NetFramework.S13.D2.SanalMetotOrnek1.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S13.D2.SanalMetotOrnek1\bin\Debug\NetFramework.S13.D2.SanalMetotOrnek1.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S13.D2.SanalMetotOrnek1\bin\Debug\NetFramework.S13.D2.SanalMetotOrnek1.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S13.D2.SanalMetotOrnek1\obj\Debug\NetFramework.S13.D2.SanalMetotOrnek1.csprojAssemblyReference.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S13.D2.SanalMetotOrnek1\obj\Debug\NetFramework.S13.D2.SanalMetotOrnek1.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S13.D2.SanalMetotOrnek1\obj\Debug\NetFramework.S13.D2.SanalMetotOrnek1.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S13.D2.SanalMetotOrnek1\obj\Debug\NetFramework.S13.D2.SanalMetotOrnek1.pdb
+D:\C#\NetFramework\NetFramework.S13.D2.SanalMetotOrnek1\bin\Debug\NetFramework.S13.D2.SanalMetotOrnek1.exe.config
+D:\C#\NetFramework\NetFramework.S13.D2.SanalMetotOrnek1\bin\Debug\NetFramework.S13.D2.SanalMetotOrnek1.exe
+D:\C#\NetFramework\NetFramework.S13.D2.SanalMetotOrnek1\bin\Debug\NetFramework.S13.D2.SanalMetotOrnek1.pdb
+D:\C#\NetFramework\NetFramework.S13.D2.SanalMetotOrnek1\obj\Debug\NetFramework.S13.D2.SanalMetotOrnek1.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S13.D2.SanalMetotOrnek1\obj\Debug\NetFramework.S13.D2.SanalMetotOrnek1.exe
+D:\C#\NetFramework\NetFramework.S13.D2.SanalMetotOrnek1\obj\Debug\NetFramework.S13.D2.SanalMetotOrnek1.pdb

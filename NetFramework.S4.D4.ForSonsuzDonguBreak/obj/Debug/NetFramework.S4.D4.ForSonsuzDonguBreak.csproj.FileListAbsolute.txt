@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\c#\Kurs\NetFramework\NetFramework.S4.D4.ForSonsuzDonguBreak\bin\Debug\NetFramework.S4.D4.ForSonsuzDonguBreak.exe.config
+C:\Users\Dell\Desktop\c#\Kurs\NetFramework\NetFramework.S4.D4.ForSonsuzDonguBreak\bin\Debug\NetFramework.S4.D4.ForSonsuzDonguBreak.exe
+C:\Users\Dell\Desktop\c#\Kurs\NetFramework\NetFramework.S4.D4.ForSonsuzDonguBreak\bin\Debug\NetFramework.S4.D4.ForSonsuzDonguBreak.pdb
+C:\Users\Dell\Desktop\c#\Kurs\NetFramework\NetFramework.S4.D4.ForSonsuzDonguBreak\obj\Debug\NetFramework.S4.D4.ForSonsuzDonguBreak.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\c#\Kurs\NetFramework\NetFramework.S4.D4.ForSonsuzDonguBreak\obj\Debug\NetFramework.S4.D4.ForSonsuzDonguBreak.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\c#\Kurs\NetFramework\NetFramework.S4.D4.ForSonsuzDonguBreak\obj\Debug\NetFramework.S4.D4.ForSonsuzDonguBreak.exe
+C:\Users\Dell\Desktop\c#\Kurs\NetFramework\NetFramework.S4.D4.ForSonsuzDonguBreak\obj\Debug\NetFramework.S4.D4.ForSonsuzDonguBreak.pdb

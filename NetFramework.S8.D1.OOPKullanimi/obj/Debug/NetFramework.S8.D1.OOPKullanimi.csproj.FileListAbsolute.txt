@@ -1,0 +1,12 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S8.D1.OOPKullanimi\bin\Debug\NetFramework.S8.D1.OOPKullanimi.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S8.D1.OOPKullanimi\bin\Debug\NetFramework.S8.D1.OOPKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S8.D1.OOPKullanimi\bin\Debug\NetFramework.S8.D1.OOPKullanimi.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S8.D1.OOPKullanimi\obj\Debug\NetFramework.S8.D1.OOPKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S8.D1.OOPKullanimi\obj\Debug\NetFramework.S8.D1.OOPKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S8.D1.OOPKullanimi\obj\Debug\NetFramework.S8.D1.OOPKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S8.D1.OOPKullanimi\bin\Debug\NetFramework.S8.D1.OOPKullanimi.exe.config
+D:\C#\NetFramework\NetFramework.S8.D1.OOPKullanimi\bin\Debug\NetFramework.S8.D1.OOPKullanimi.exe
+D:\C#\NetFramework\NetFramework.S8.D1.OOPKullanimi\bin\Debug\NetFramework.S8.D1.OOPKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S8.D1.OOPKullanimi\obj\Debug\NetFramework.S8.D1.OOPKullanimi.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S8.D1.OOPKullanimi\obj\Debug\NetFramework.S8.D1.OOPKullanimi.exe
+D:\C#\NetFramework\NetFramework.S8.D1.OOPKullanimi\obj\Debug\NetFramework.S8.D1.OOPKullanimi.pdb

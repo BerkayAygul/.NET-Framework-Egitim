@@ -1,0 +1,14 @@
+D:\C#\NetFramework\NetFramework.S18.D93.FakeDataVeGridView\bin\Debug\NetFramework.S18.D93.FakeDataVeGridView.exe.config
+D:\C#\NetFramework\NetFramework.S18.D93.FakeDataVeGridView\bin\Debug\NetFramework.S18.D93.FakeDataVeGridView.exe
+D:\C#\NetFramework\NetFramework.S18.D93.FakeDataVeGridView\bin\Debug\NetFramework.S18.D93.FakeDataVeGridView.pdb
+D:\C#\NetFramework\NetFramework.S18.D93.FakeDataVeGridView\bin\Debug\FakeData.dll
+D:\C#\NetFramework\NetFramework.S18.D93.FakeDataVeGridView\bin\Debug\FakeData.pdb
+D:\C#\NetFramework\NetFramework.S18.D93.FakeDataVeGridView\obj\Debug\NetFramework.S18.D93.FakeDataVeGridView.csproj.AssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S18.D93.FakeDataVeGridView\obj\Debug\NetFramework.S18.D93.FakeDataVeGridView.Form1.resources
+D:\C#\NetFramework\NetFramework.S18.D93.FakeDataVeGridView\obj\Debug\NetFramework.S18.D93.FakeDataVeGridView.Properties.Resources.resources
+D:\C#\NetFramework\NetFramework.S18.D93.FakeDataVeGridView\obj\Debug\NetFramework.S18.D93.FakeDataVeGridView.csproj.GenerateResource.cache
+D:\C#\NetFramework\NetFramework.S18.D93.FakeDataVeGridView\obj\Debug\NetFramework.S18.D93.FakeDataVeGridView.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S18.D93.FakeDataVeGridView\obj\Debug\NetFramework.S18.D93.FakeDataVeGridView.csproj.CopyComplete
+D:\C#\NetFramework\NetFramework.S18.D93.FakeDataVeGridView\obj\Debug\NetFramework.S18.D93.FakeDataVeGridView.exe
+D:\C#\NetFramework\NetFramework.S18.D93.FakeDataVeGridView\obj\Debug\NetFramework.S18.D93.FakeDataVeGridView.pdb
+D:\C#\NetFramework\NetFramework.S18.D93.FakeDataVeGridView\obj\Debug\NetFramework.S18.D93.FakeDataVeGridView.PopupMesaj.resources

@@ -1,0 +1,6 @@
+C:\Users\Dell\Desktop\c#\Kurs\NetFramework\NetFramework.S4.D5.ForSonsuzDonguContinue\bin\Debug\NetFramework.S4.D5.ForSonsuzDonguContinue.exe.config
+C:\Users\Dell\Desktop\c#\Kurs\NetFramework\NetFramework.S4.D5.ForSonsuzDonguContinue\bin\Debug\NetFramework.S4.D5.ForSonsuzDonguContinue.exe
+C:\Users\Dell\Desktop\c#\Kurs\NetFramework\NetFramework.S4.D5.ForSonsuzDonguContinue\bin\Debug\NetFramework.S4.D5.ForSonsuzDonguContinue.pdb
+C:\Users\Dell\Desktop\c#\Kurs\NetFramework\NetFramework.S4.D5.ForSonsuzDonguContinue\obj\Debug\NetFramework.S4.D5.ForSonsuzDonguContinue.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\c#\Kurs\NetFramework\NetFramework.S4.D5.ForSonsuzDonguContinue\obj\Debug\NetFramework.S4.D5.ForSonsuzDonguContinue.exe
+C:\Users\Dell\Desktop\c#\Kurs\NetFramework\NetFramework.S4.D5.ForSonsuzDonguContinue\obj\Debug\NetFramework.S4.D5.ForSonsuzDonguContinue.pdb

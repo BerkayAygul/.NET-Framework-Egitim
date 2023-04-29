@@ -1,0 +1,13 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S9.D1.KapsullemeKullanimi\bin\Debug\NetFramework.S9.D1.KapsullemeKullanimi.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S9.D1.KapsullemeKullanimi\bin\Debug\NetFramework.S9.D1.KapsullemeKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S9.D1.KapsullemeKullanimi\bin\Debug\NetFramework.S9.D1.KapsullemeKullanimi.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S9.D1.KapsullemeKullanimi\obj\Debug\NetFramework.S9.D1.KapsullemeKullanimi.csprojAssemblyReference.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S9.D1.KapsullemeKullanimi\obj\Debug\NetFramework.S9.D1.KapsullemeKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S9.D1.KapsullemeKullanimi\obj\Debug\NetFramework.S9.D1.KapsullemeKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S9.D1.KapsullemeKullanimi\obj\Debug\NetFramework.S9.D1.KapsullemeKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S9.D1.KapsullemeKullanimi\bin\Debug\NetFramework.S9.D1.KapsullemeKullanimi.exe.config
+D:\C#\NetFramework\NetFramework.S9.D1.KapsullemeKullanimi\bin\Debug\NetFramework.S9.D1.KapsullemeKullanimi.exe
+D:\C#\NetFramework\NetFramework.S9.D1.KapsullemeKullanimi\bin\Debug\NetFramework.S9.D1.KapsullemeKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S9.D1.KapsullemeKullanimi\obj\Debug\NetFramework.S9.D1.KapsullemeKullanimi.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S9.D1.KapsullemeKullanimi\obj\Debug\NetFramework.S9.D1.KapsullemeKullanimi.exe
+D:\C#\NetFramework\NetFramework.S9.D1.KapsullemeKullanimi\obj\Debug\NetFramework.S9.D1.KapsullemeKullanimi.pdb

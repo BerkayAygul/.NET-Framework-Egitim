@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NetFramework.S2.D2.KarsılastırmaOperatorleri/1.0.0": {
+        "runtime": {
+          "NetFramework.S2.D2.KarsılastırmaOperatorleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetFramework.S2.D2.KarsılastırmaOperatorleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D5.ConsoleKomutlari\bin\Debug\NetFramework.S1.D5.ConsoleKomutlari.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D5.ConsoleKomutlari\bin\Debug\NetFramework.S1.D5.ConsoleKomutlari.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D5.ConsoleKomutlari\bin\Debug\NetFramework.S1.D5.ConsoleKomutlari.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D5.ConsoleKomutlari\obj\Debug\NetFramework.S1.D5.ConsoleKomutlari.csprojAssemblyReference.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D5.ConsoleKomutlari\obj\Debug\NetFramework.S1.D5.ConsoleKomutlari.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D5.ConsoleKomutlari\obj\Debug\NetFramework.S1.D5.ConsoleKomutlari.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S1.D5.ConsoleKomutlari\obj\Debug\NetFramework.S1.D5.ConsoleKomutlari.pdb
+D:\C#\NetFramework\NetFramework.S1.D5.ConsoleKomutlari\bin\Debug\NetFramework.S1.D5.ConsoleKomutlari.exe.config
+D:\C#\NetFramework\NetFramework.S1.D5.ConsoleKomutlari\bin\Debug\NetFramework.S1.D5.ConsoleKomutlari.exe
+D:\C#\NetFramework\NetFramework.S1.D5.ConsoleKomutlari\bin\Debug\NetFramework.S1.D5.ConsoleKomutlari.pdb
+D:\C#\NetFramework\NetFramework.S1.D5.ConsoleKomutlari\obj\Debug\NetFramework.S1.D5.ConsoleKomutlari.csproj.AssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S1.D5.ConsoleKomutlari\obj\Debug\NetFramework.S1.D5.ConsoleKomutlari.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S1.D5.ConsoleKomutlari\obj\Debug\NetFramework.S1.D5.ConsoleKomutlari.exe
+D:\C#\NetFramework\NetFramework.S1.D5.ConsoleKomutlari\obj\Debug\NetFramework.S1.D5.ConsoleKomutlari.pdb

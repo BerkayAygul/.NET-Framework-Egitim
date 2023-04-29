@@ -1,0 +1,10 @@
+D:\C#\NetFramework\NetFramework.S18.D92.GroupBoxListKullanimi\bin\Debug\NetFramework.S18.D92.GroupBoxListKullanimi.exe.config
+D:\C#\NetFramework\NetFramework.S18.D92.GroupBoxListKullanimi\bin\Debug\NetFramework.S18.D92.GroupBoxListKullanimi.exe
+D:\C#\NetFramework\NetFramework.S18.D92.GroupBoxListKullanimi\bin\Debug\NetFramework.S18.D92.GroupBoxListKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S18.D92.GroupBoxListKullanimi\obj\Debug\NetFramework.S18.D92.GroupBoxListKullanimi.csproj.AssemblyReference.cache
+D:\C#\NetFramework\NetFramework.S18.D92.GroupBoxListKullanimi\obj\Debug\NetFramework.S18.D92.GroupBoxListKullanimi.Form1.resources
+D:\C#\NetFramework\NetFramework.S18.D92.GroupBoxListKullanimi\obj\Debug\NetFramework.S18.D92.GroupBoxListKullanimi.Properties.Resources.resources
+D:\C#\NetFramework\NetFramework.S18.D92.GroupBoxListKullanimi\obj\Debug\NetFramework.S18.D92.GroupBoxListKullanimi.csproj.GenerateResource.cache
+D:\C#\NetFramework\NetFramework.S18.D92.GroupBoxListKullanimi\obj\Debug\NetFramework.S18.D92.GroupBoxListKullanimi.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S18.D92.GroupBoxListKullanimi\obj\Debug\NetFramework.S18.D92.GroupBoxListKullanimi.exe
+D:\C#\NetFramework\NetFramework.S18.D92.GroupBoxListKullanimi\obj\Debug\NetFramework.S18.D92.GroupBoxListKullanimi.pdb

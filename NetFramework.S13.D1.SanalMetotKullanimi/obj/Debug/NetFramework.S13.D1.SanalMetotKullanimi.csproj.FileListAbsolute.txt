@@ -1,0 +1,13 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S13.D1.SanalMetotKullanimi\bin\Debug\NetFramework.S13.D1.SanalMetotKullanimi.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S13.D1.SanalMetotKullanimi\bin\Debug\NetFramework.S13.D1.SanalMetotKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S13.D1.SanalMetotKullanimi\bin\Debug\NetFramework.S13.D1.SanalMetotKullanimi.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S13.D1.SanalMetotKullanimi\obj\Debug\NetFramework.S13.D1.SanalMetotKullanimi.csprojAssemblyReference.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S13.D1.SanalMetotKullanimi\obj\Debug\NetFramework.S13.D1.SanalMetotKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S13.D1.SanalMetotKullanimi\obj\Debug\NetFramework.S13.D1.SanalMetotKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S13.D1.SanalMetotKullanimi\obj\Debug\NetFramework.S13.D1.SanalMetotKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S13.D1.SanalMetotKullanimi\bin\Debug\NetFramework.S13.D1.SanalMetotKullanimi.exe.config
+D:\C#\NetFramework\NetFramework.S13.D1.SanalMetotKullanimi\bin\Debug\NetFramework.S13.D1.SanalMetotKullanimi.exe
+D:\C#\NetFramework\NetFramework.S13.D1.SanalMetotKullanimi\bin\Debug\NetFramework.S13.D1.SanalMetotKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S13.D1.SanalMetotKullanimi\obj\Debug\NetFramework.S13.D1.SanalMetotKullanimi.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S13.D1.SanalMetotKullanimi\obj\Debug\NetFramework.S13.D1.SanalMetotKullanimi.exe
+D:\C#\NetFramework\NetFramework.S13.D1.SanalMetotKullanimi\obj\Debug\NetFramework.S13.D1.SanalMetotKullanimi.pdb

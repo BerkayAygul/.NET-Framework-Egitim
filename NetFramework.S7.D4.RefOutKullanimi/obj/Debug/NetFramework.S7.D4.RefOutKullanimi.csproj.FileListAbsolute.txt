@@ -1,0 +1,12 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S7.D4.RefOutKullanimi\bin\Debug\NetFramework.S7.D4.RefOutKullanimi.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S7.D4.RefOutKullanimi\bin\Debug\NetFramework.S7.D4.RefOutKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S7.D4.RefOutKullanimi\bin\Debug\NetFramework.S7.D4.RefOutKullanimi.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S7.D4.RefOutKullanimi\obj\Debug\NetFramework.S7.D4.RefOutKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S7.D4.RefOutKullanimi\obj\Debug\NetFramework.S7.D4.RefOutKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S7.D4.RefOutKullanimi\obj\Debug\NetFramework.S7.D4.RefOutKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S7.D4.RefOutKullanimi\bin\Debug\NetFramework.S7.D4.RefOutKullanimi.exe.config
+D:\C#\NetFramework\NetFramework.S7.D4.RefOutKullanimi\bin\Debug\NetFramework.S7.D4.RefOutKullanimi.exe
+D:\C#\NetFramework\NetFramework.S7.D4.RefOutKullanimi\bin\Debug\NetFramework.S7.D4.RefOutKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S7.D4.RefOutKullanimi\obj\Debug\NetFramework.S7.D4.RefOutKullanimi.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S7.D4.RefOutKullanimi\obj\Debug\NetFramework.S7.D4.RefOutKullanimi.exe
+D:\C#\NetFramework\NetFramework.S7.D4.RefOutKullanimi\obj\Debug\NetFramework.S7.D4.RefOutKullanimi.pdb

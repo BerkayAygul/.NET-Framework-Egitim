@@ -1,0 +1,13 @@
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S14.D1.AbstractKullanimi\bin\Debug\NetFramework.S14.D1.AbstractKullanimi.exe.config
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S14.D1.AbstractKullanimi\bin\Debug\NetFramework.S14.D1.AbstractKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S14.D1.AbstractKullanimi\bin\Debug\NetFramework.S14.D1.AbstractKullanimi.pdb
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S14.D1.AbstractKullanimi\obj\Debug\NetFramework.S14.D1.AbstractKullanimi.csprojAssemblyReference.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S14.D1.AbstractKullanimi\obj\Debug\NetFramework.S14.D1.AbstractKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S14.D1.AbstractKullanimi\obj\Debug\NetFramework.S14.D1.AbstractKullanimi.exe
+C:\Users\Berkay\Desktop\C#\Kurs\NetFramework\NetFramework.S14.D1.AbstractKullanimi\obj\Debug\NetFramework.S14.D1.AbstractKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S14.D1.AbstractKullanimi\bin\Debug\NetFramework.S14.D1.AbstractKullanimi.exe.config
+D:\C#\NetFramework\NetFramework.S14.D1.AbstractKullanimi\bin\Debug\NetFramework.S14.D1.AbstractKullanimi.exe
+D:\C#\NetFramework\NetFramework.S14.D1.AbstractKullanimi\bin\Debug\NetFramework.S14.D1.AbstractKullanimi.pdb
+D:\C#\NetFramework\NetFramework.S14.D1.AbstractKullanimi\obj\Debug\NetFramework.S14.D1.AbstractKullanimi.csproj.CoreCompileInputs.cache
+D:\C#\NetFramework\NetFramework.S14.D1.AbstractKullanimi\obj\Debug\NetFramework.S14.D1.AbstractKullanimi.exe
+D:\C#\NetFramework\NetFramework.S14.D1.AbstractKullanimi\obj\Debug\NetFramework.S14.D1.AbstractKullanimi.pdb
